@@ -1,8 +1,8 @@
-- name: About
-  link: http://ryanhaydenwebsites.com/church.html
-  new_window: true
+- name: FAQ
+  link: /faq/
+  new_window: false
   highlight: false
 - name: Sign Up
-  link: /
-  new_window: true
+  link: /signup/
+  new_window: false
   highlight: true
