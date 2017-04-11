@@ -2,6 +2,10 @@
   link: /faq/
   new_window: false
   highlight: false
+- name: Other Tools
+  link: http://simplechurchtools.com
+  new_window: true
+  highlight: false
 - name: Sign Up
   link: /signup/
   new_window: false
