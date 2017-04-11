@@ -1,26 +1,14 @@
 ---
-layout: page
-title: Access and Setup your Simple Church Planner
+title: Access
+heading: Here is Your Access
+description: Follow the instructions on this page to get setup.
 ---
+<hr>
 
-<style>
-    img.center {
-        width: 75%;
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-    }
-    img.stack {
-        width: 450px;
-    }
-   div.steps {
-        display: flex;
-        justify-content: space-around;
-        flex-wrap: wrap;
-    }
-</style>
+# There are five steps to setting up the Simple Church Planner
+### Don't worry, they'll only take a minute.
 
-In order to setup the Simple Church Planner you are going to need to do a couple of things.  Don't worry, it shouldn't take too much of your time and should save you tons of time in the future:
+Follow these steps explained in the video above and the text below:
 
 ### Step One - Sign Up For An Airtable Account
 
@@ -41,6 +29,8 @@ Click on [this link](https://airtable.com/shreXBDXQHJCMOHuM) and click the large
 <img src="{{ site.url }}/images/steps/4apikey.png" alt="" class="stack">
 
 **You'll find your API key** by 1) clicking on your user avitar and  2) clicking Account info.  You should either see your API key at the bottom of the page or see the option to create one.
+
+
 
 <img src="{{ site.url }}/images/steps/5help.png" alt="" class="stack">
 <img src="{{ site.url }}/images/steps/6apidocs.png" alt="" class="stack">
@@ -72,5 +62,3 @@ Download [this file](#). (It may open in another tab and you'll have to select F
 Be sure to save the file somewhere where you will remember it.  Then open the file in Google Chrome.  You'll be asked to enter your API Key and AppID.  (You should only have to do this once but save them just in case.)  
 
 Now you should see a list of all of your upcoming services.  Just click on one and click FILE > PRINT.  Make sure your print as landscape.
-
-

@@ -70,6 +70,7 @@ exclude:
   - Gemfile.lock
   - README.md
   - LICENCE
+keep_files: ["mychurch"]
 
 # -----------
 # CloudCannon
