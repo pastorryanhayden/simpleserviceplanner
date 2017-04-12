@@ -20,7 +20,12 @@ Click [this link](https://airtable.com/invite/r/MW9nJ7HK) to sign up for a free 
 ### Step Two - Copy Our Template Base Into Your Account
 
 
-Click on [this link](https://airtable.com/shreXBDXQHJCMOHuM) and click the large "copy base" button.
+Click on [this link for a blank planner with no hymnal](https://airtable.com/shreXBDXQHJCMOHuM) and click the large "copy base" button.
+
+OR:
+
+* [Planner with Rejoice Hymns](https://airtable.com/shrYt1Z9WHzAqZxQA)
+* More Coming Soon
 
 ### Step Three - Find and write down your Airtable API Key and the base APP ID.
 
@@ -36,19 +41,18 @@ Click on [this link](https://airtable.com/shreXBDXQHJCMOHuM) and click the large
 You can start planning your services right away.  This video will explain how it all works:
 
 
-You can import hymnal indexes.  Right now we have this you can download:
-
-* [Rejoice Hymns by Majesty Music](https://www.dropbox.com/s/8d9h39nzfpnjj8y/Hymns-Grid%20view.csv?dl=0)
+You can import hymnal indexes.  If you click on a link in step 2, we have hymnals already added so you can skip this. THIS IS FOR PEOPLE WHO WANT TO DO THIS PART THEMSELVES.
 
 To add it, click on the link and save the CSV file.  Open the CSV file in a spreadsheet app (Google Sheets, Microsoft Excel, etc.) Then select and copy everything.  Then open the Service Planner on Airtable, select the "Hymns" tab, and select EDIT > PASTE.
 
 (See this article for a visual example: https://support.airtable.com/hc/en-us/articles/218325187-Appending-data-to-an-existing-table-with-copy-and-paste) 
 
-I'm working on these and should have them very soon.
+I'm working on these and should have them very soon by the end of the week.
 
-* Crown Hymns by Crown Christian Publications
 * Bible Truth Hymns by Bible Truth Music
 * Living Hymns by Striving Together Publications
+* Celebration Hymnal
+* Hymnal for Worship and Celebration
 
 
 If you have another hymnal you need, we can get it entered for a small fee.
