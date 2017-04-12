@@ -36,12 +36,18 @@ Click on [this link](https://airtable.com/shreXBDXQHJCMOHuM) and click the large
 You can start planning your services right away.  This video will explain how it all works:
 
 
-You can import hymnal indexes.  Right now we have these you can download:
+You can import hymnal indexes.  Right now we have this you can download:
 
-* Rejoice Hymns by Majesty Music
+* [Rejoice Hymns by Majesty Music](https://www.dropbox.com/s/8d9h39nzfpnjj8y/Hymns-Grid%20view.csv?dl=0)
+
+To add it, click on the link and save the CSV file.  Open the CSV file in a spreadsheet app (Google Sheets, Microsoft Excel, etc.) Then select and copy everything.  Then open the Service Planner on Airtable, select the "Hymns" tab, and select EDIT > PASTE. 
+
+I'm working on these and should have them very soon.
+
 * Crown Hymns by Crown Christian Publications
 * Bible Truth Hymns by Bible Truth Music
 * Living Hymns by Striving Together Publications
+
 
 If you have another hymnal you need, we can get it entered for a small fee.
 
