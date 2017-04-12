@@ -3,6 +3,9 @@ title: Access
 heading: Here is Your Access
 description: Follow the instructions on this page to get setup.
 ---
+
+<iframe src="https://drive.google.com/file/d/0B9JVuO8akoUEcjdwQUdjSUlOTkk/preview" width="640" height="480" style="display: block; margin-left: auto; margin-right: auto; margin-top: 30px;"></iframe>
+<br>
 <hr>
 
 # There are five steps to setting up the Simple Church Planner
