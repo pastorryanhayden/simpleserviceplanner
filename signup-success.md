@@ -40,7 +40,9 @@ You can import hymnal indexes.  Right now we have this you can download:
 
 * [Rejoice Hymns by Majesty Music](https://www.dropbox.com/s/8d9h39nzfpnjj8y/Hymns-Grid%20view.csv?dl=0)
 
-To add it, click on the link and save the CSV file.  Open the CSV file in a spreadsheet app (Google Sheets, Microsoft Excel, etc.) Then select and copy everything.  Then open the Service Planner on Airtable, select the "Hymns" tab, and select EDIT > PASTE. 
+To add it, click on the link and save the CSV file.  Open the CSV file in a spreadsheet app (Google Sheets, Microsoft Excel, etc.) Then select and copy everything.  Then open the Service Planner on Airtable, select the "Hymns" tab, and select EDIT > PASTE.
+
+(See this article for a visual example: https://support.airtable.com/hc/en-us/articles/218325187-Appending-data-to-an-existing-table-with-copy-and-paste) 
 
 I'm working on these and should have them very soon.
 
