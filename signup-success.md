@@ -4,7 +4,7 @@ heading: Here is Your Access
 description: Follow the instructions on this page to get setup.
 ---
 
-<iframe src="https://drive.google.com/file/d/0B9JVuO8akoUEcjdwQUdjSUlOTkk/preview" width="640" height="480" style="display: block; margin-left: auto; margin-right: auto; margin-top: 30px;"></iframe>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/pZg3yzfiuPA" frameborder="0" allowfullscreen style="display: block; margin-left: auto; margin-right: auto; margin-top: 30px;"></iframe>
 <br>
 <hr>
 
@@ -54,21 +54,13 @@ I just need to get ahold of their index in a digital format.  If there is anothe
 
 ### Step Four - Start entering your information.
 
-You can start planning your services right away.  This video will explain how it all works:
-
-
-You can import hymnal indexes.  If you click on a link in step 2, we have hymnals already added so you can skip this. THIS IS FOR PEOPLE WHO WANT TO DO THIS PART THEMSELVES.
-
-To add it, you need to find a CSV file of they hymnal's index.  Open the CSV file in a spreadsheet app (Google Sheets, Microsoft Excel, etc.) Then select and copy everything.  Then open the Service Planner on Airtable, select the "Hymns" tab, and select EDIT > PASTE.
-
-(See this article for a visual example: https://support.airtable.com/hc/en-us/articles/218325187-Appending-data-to-an-existing-table-with-copy-and-paste) 
-
+You can start planning your services right away.  The video above explains how it all works.
 
 
 ### Step Five - Go to [mychurch.simplechurchplanner.com](http://mychurch.simplechurchplanner.com) open it and enter your API key and APP ID.
 
 Again, that link is [here](http://mychurch.simplechurchplanner.com)
 
-> Note, this will store your API Key and APP ID on YOUR COMPUTER.  If you clear out your browser's cookies, switch browsers, or swictch computers, you'll have to enter it again.
+> Note, this will store your API Key and APP ID on YOUR BROWSER STORAGE.  If you clear out your browser's cookies, switch browsers, or switch computers, you'll have to enter it again.
 
 Now you should see a list of all of your upcoming services.  Just click on one and click FILE > PRINT.  Make sure your print as landscape.
