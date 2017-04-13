@@ -25,7 +25,20 @@ Click on [this link for a blank planner with no hymnal](https://airtable.com/shr
 OR:
 
 * [Planner with Rejoice Hymns](https://airtable.com/shrYt1Z9WHzAqZxQA)
-* More Coming Soon
+* [Soul Stirring Songs & Hymns](https://airtable.com/shrrg2dloFWgUysES)
+* [The Hymnal for Worship & Celebration](https://airtable.com/shrTUjgan0KKhB3v6)
+
+Check back LATER TODAY (Thursday April 13) and you should see:
+
+* Living Hymns
+* Bible Truth Hymns
+* Majesty Hymns
+* Celebtration Hymnal
+* Songs & Hymns of Revival
+
+I'm working on adding:
+* Crown Hymns
+* Songs and Hymns of the Heart
 
 ### Step Three - Find and write down your Airtable API Key and the base APP ID.
 
@@ -47,12 +60,6 @@ To add it, click on the link and save the CSV file.  Open the CSV file in a spre
 
 (See this article for a visual example: https://support.airtable.com/hc/en-us/articles/218325187-Appending-data-to-an-existing-table-with-copy-and-paste) 
 
-I'm working on these and should have them very soon by the end of the week.
-
-* Bible Truth Hymns by Bible Truth Music
-* Living Hymns by Striving Together Publications
-* Celebration Hymnal
-* Hymnal for Worship and Celebration
 
 
 If you have another hymnal you need, we can get it entered for a small fee.
