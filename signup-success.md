@@ -20,13 +20,16 @@ Click [this link](https://airtable.com/invite/r/MW9nJ7HK) to sign up for a free 
 ### Step Two - Copy Our Template Base Into Your Account
 
 
-Click on [this link for a blank planner with no hymnal](https://airtable.com/shreXBDXQHJCMOHuM) and click the large "copy base" button.
-
-OR:
+Click on the hymnal you use below and then click on the large "copy base button" (Top right corner):
 
 * [Planner with Rejoice Hymns](https://airtable.com/shrYt1Z9WHzAqZxQA)
 * [Soul Stirring Songs & Hymns](https://airtable.com/shrrg2dloFWgUysES)
 * [The Hymnal for Worship & Celebration](https://airtable.com/shrTUjgan0KKhB3v6)
+
+OR click on on:
+
+[this link for a blank planner with no hymnal](https://airtable.com/shreXBDXQHJCMOHuM) and click the large "copy base" button.  
+
 
 Check back LATER TODAY (Thursday April 13) and you should see:
 
