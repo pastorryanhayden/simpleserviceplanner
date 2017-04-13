@@ -25,6 +25,8 @@ Click on the hymnal you use below and then click on the large "copy base button"
 * [Planner with Rejoice Hymns](https://airtable.com/shrYt1Z9WHzAqZxQA)
 * [Soul Stirring Songs & Hymns](https://airtable.com/shrrg2dloFWgUysES)
 * [The Hymnal for Worship & Celebration](https://airtable.com/shrTUjgan0KKhB3v6)
+* [Celebration Hymnal](https://airtable.com/shrYHnjWDAylURDwP)
+* [Songs and Hymns of Revival](https://airtable.com/shrFu37chX9pB7kai)
 
 OR click on on:
 
