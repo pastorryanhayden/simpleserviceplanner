@@ -23,27 +23,25 @@ Click [this link](https://airtable.com/invite/r/MW9nJ7HK) to sign up for a free 
 Click on the hymnal you use below and then click on the large "copy base button" (Top right corner):
 
 * [ Rejoice Hymns](https://airtable.com/shrYt1Z9WHzAqZxQA)
+* [Majesty Hymns](https://airtable.com/shrTHMd1gGTWwP6ta)
 * [Soul Stirring Songs & Hymns](https://airtable.com/shrrg2dloFWgUysES)
 * [The Hymnal for Worship & Celebration](https://airtable.com/shrTUjgan0KKhB3v6)
 * [Celebration Hymnal](https://airtable.com/shrYHnjWDAylURDwP)
 * [Songs and Hymns of Revival](https://airtable.com/shrFu37chX9pB7kai)
+* [Bible Truth Hymns](https://airtable.com/shrWxj9Ult7C2uQ8b)
+* [Living Hymns](https://airtable.com/shr6E6skbqXzI9Wyx)
 
 OR click on on:
 
 [this link for a blank planner with no hymnal](https://airtable.com/shreXBDXQHJCMOHuM) and click the large "copy base" button.  
 
-
-Check back LATER TODAY (Thursday April 13) and you should see:
-
-* Living Hymns
-* Bible Truth Hymns
-* Majesty Hymns
-* Celebtration Hymnal
-* Songs & Hymns of Revival
+> NOTE: Some of these hymnals are so large, you may find yourself starting outside of Airtable's free tier (1200 records.). Eventually I'm going to redo these so that first lines are on another row than Song Titles to shrink the numbers down a little.
 
 I'm working on adding:
 * Crown Hymns
 * Songs and Hymns of the Heart
+
+I just need to get ahold of their index in a digital format.  If there is another hymnbook you would like me to add, please let me know and we'll get to work on it.
 
 ### Step Three - Find and write down your Airtable API Key and the base APP ID.
 
@@ -61,13 +59,11 @@ You can start planning your services right away.  This video will explain how it
 
 You can import hymnal indexes.  If you click on a link in step 2, we have hymnals already added so you can skip this. THIS IS FOR PEOPLE WHO WANT TO DO THIS PART THEMSELVES.
 
-To add it, click on the link and save the CSV file.  Open the CSV file in a spreadsheet app (Google Sheets, Microsoft Excel, etc.) Then select and copy everything.  Then open the Service Planner on Airtable, select the "Hymns" tab, and select EDIT > PASTE.
+To add it, you need to find a CSV file of they hymnal's index.  Open the CSV file in a spreadsheet app (Google Sheets, Microsoft Excel, etc.) Then select and copy everything.  Then open the Service Planner on Airtable, select the "Hymns" tab, and select EDIT > PASTE.
 
 (See this article for a visual example: https://support.airtable.com/hc/en-us/articles/218325187-Appending-data-to-an-existing-table-with-copy-and-paste) 
 
 
-
-If you have another hymnal you need, we can get it entered for a small fee.
 
 ### Step Five - Go to [mychurch.simplechurchplanner.com](http://mychurch.simplechurchplanner.com) open it and enter your API key and APP ID.
 
