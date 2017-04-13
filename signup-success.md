@@ -22,7 +22,7 @@ Click [this link](https://airtable.com/invite/r/MW9nJ7HK) to sign up for a free 
 
 Click on the hymnal you use below and then click on the large "copy base button" (Top right corner):
 
-* [Planner with Rejoice Hymns](https://airtable.com/shrYt1Z9WHzAqZxQA)
+* [ Rejoice Hymns](https://airtable.com/shrYt1Z9WHzAqZxQA)
 * [Soul Stirring Songs & Hymns](https://airtable.com/shrrg2dloFWgUysES)
 * [The Hymnal for Worship & Celebration](https://airtable.com/shrTUjgan0KKhB3v6)
 * [Celebration Hymnal](https://airtable.com/shrYHnjWDAylURDwP)
