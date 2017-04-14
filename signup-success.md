@@ -15,21 +15,23 @@ Follow these steps explained in the video above and the text below:
 
 ### Step One - Sign Up For An Airtable Account
 
-Click [this link](https://airtable.com/invite/r/MW9nJ7HK) to sign up for a free Airtable account if you don't already have one. 
+Click <a href="https://airtable.com/invite/r/MW9nJ7HK" target="blank">this link</a>to sign up for a free Airtable account if you don't already have one. 
 
 ### Step Two - Copy Our Template Base Into Your Account
 
 
 Click on the hymnal you use below and then click on the large "copy base button" (Top right corner):
 
-* [ Rejoice Hymns](https://airtable.com/shrYt1Z9WHzAqZxQA)
-* [Majesty Hymns](https://airtable.com/shrTHMd1gGTWwP6ta)
-* [Soul Stirring Songs & Hymns](https://airtable.com/shrrg2dloFWgUysES)
-* [The Hymnal for Worship & Celebration](https://airtable.com/shrTUjgan0KKhB3v6)
-* [Celebration Hymnal](https://airtable.com/shrYHnjWDAylURDwP)
-* [Songs and Hymns of Revival](https://airtable.com/shrFu37chX9pB7kai)
-* [Bible Truth Hymns](https://airtable.com/shrWxj9Ult7C2uQ8b)
-* [Living Hymns](https://airtable.com/shr6E6skbqXzI9Wyx)
+<ul>
+    <li><a href="https://airtable.com/shrYt1Z9WHzAqZxQA" target="blank">Rejoice Hymns </a></li>
+    <li><a href="https://airtable.com/shrTHMd1gGTWwP6ta" target="blank">Majesty Hymns</a></li>
+    <li><a href="https://airtable.com/shrrg2dloFWgUysES" target="blank">Soul Stirring Songs &amp; Hymns </a></li>
+    <li><a href="https://airtable.com/shrTUjgan0KKhB3v6" target="blank">The Hymnal for Worship &amp; Celebration</a></li>
+    <li><a href="https://airtable.com/shrYHnjWDAylURDwP" target="blank">Celebration Hymnal</a></li>
+    <li><a href="https://airtable.com/shrFu37chX9pB7kai" target="blank">Songs and Hymns of Revival</a></li>
+    <li><a href="https://airtable.com/shrWxj9Ult7C2uQ8b" target="blank">Bible Truth Hymns</a></li>
+    li><a href="https://airtable.com/shr6E6skbqXzI9Wyx" target="blank">Living Hymns</a></li>
+</ul>
 
 OR click on on:
 
@@ -59,7 +61,7 @@ You can start planning your services right away.  The video above explains how i
 
 ### Step Five - Go to [mychurch.simplechurchplanner.com](http://mychurch.simplechurchplanner.com) open it and enter your API key and APP ID.
 
-Again, that link is [here](http://mychurch.simplechurchplanner.com)
+Again, that link is <a href="http://mychurch.simplechurchplanner.com" target="blank">here</a>
 
 > Note, this will store your API Key and APP ID on YOUR BROWSER STORAGE.  If you clear out your browser's cookies, switch browsers, or switch computers, you'll have to enter it again.
 
