@@ -2,7 +2,7 @@
 # Site
 
 title: Simple Church Planner
-url: "https://proud-alligator.cloudvent.net"
+url: "https://simplechurchplanner.com"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
@@ -10,11 +10,11 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Product marketing template for Jekyll.
-author:
-  name:
-  email:
-  twitter: # twitter username without the @ symbol
+description: Free Church Website Planner.
+author: Simple Church TOols
+  name: Simple Church Tools
+  email: pastorryanhayden@gmail.com
+  twitter: rynhayden # twitter username without the @ symbol
 social:
   name: Simple Church Planner
   links:
