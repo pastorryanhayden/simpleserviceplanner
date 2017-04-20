@@ -4,7 +4,7 @@ heading: Here is Your Access
 description: Follow the instructions on this page to get setup.
 ---
 
-<iframe width="720" height="405" src="https://www.youtube.com/embed/pZg3yzfiuPA" frameborder="0" allowfullscreen style="display: block; margin-left: auto; margin-right: auto; margin-top: 30px;"></iframe>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/8gu8a05t5Ik" frameborder="0" allowfullscreen style="display: block; margin-left: auto; margin-right: auto; margin-top: 30px;"></iframe>
 <br>
 <hr>
 
