@@ -23,19 +23,19 @@ Click <a href="https://airtable.com/invite/r/MW9nJ7HK" target="blank">this link<
 Click on the hymnal you use below and then click on the large "copy base button" (Top right corner):
 
 <ul>
-    <li><a href="https://airtable.com/shrYt1Z9WHzAqZxQA" target="blank">Rejoice Hymns </a></li>
-    <li><a href="https://airtable.com/shrTHMd1gGTWwP6ta" target="blank">Majesty Hymns</a></li>
-    <li><a href="https://airtable.com/shrrg2dloFWgUysES" target="blank">Soul Stirring Songs &amp; Hymns </a></li>
-    <li><a href="https://airtable.com/shrTUjgan0KKhB3v6" target="blank">The Hymnal for Worship &amp; Celebration</a></li>
-    <li><a href="https://airtable.com/shrYHnjWDAylURDwP" target="blank">Celebration Hymnal</a></li>
-    <li><a href="https://airtable.com/shrFu37chX9pB7kai" target="blank">Songs and Hymns of Revival</a></li>
-    <li><a href="https://airtable.com/shrWxj9Ult7C2uQ8b" target="blank">Bible Truth Hymns</a></li>
-    li><a href="https://airtable.com/shr6E6skbqXzI9Wyx" target="blank">Living Hymns</a></li>
+    <li><a href="https://airtable.com/shr5PG6yvjdA6Q3fc" target="blank">Rejoice Hymns </a></li>
+    <li><a href="https://airtable.com/shrCsiJ39UqmCgglL" target="blank">Majesty Hymns</a></li>
+    <li><a href="https://airtable.com/shrKaLCWYnOs5ts28" target="blank">Soul Stirring Songs &amp; Hymns </a></li>
+    <li><a href="https://airtable.com/shrrWNpYJQE2DnX2e" target="blank">The Hymnal for Worship &amp; Celebration</a></li>
+    <li><a href="https://airtable.com/shrDzO914TTkeiOeN" target="blank">Celebration Hymnal</a></li>
+    <li><a href="https://airtable.com/shrdzRpmKCQQApywe" target="blank">Songs and Hymns of Revival</a></li>
+    <li><a href="https://airtable.com/shrVQbcJ3yp2ce8Ql" target="blank">Bible Truth Hymns</a></li>
+    li><a href="https://airtable.com/shrJTut5t0nWhOKEs" target="blank">Living Hymns</a></li>
 </ul>
 
 OR click on on:
 
-[this link for a blank planner with no hymnal](https://airtable.com/shreXBDXQHJCMOHuM) and click the large "copy base" button.  
+[this link for a blank planner with no hymnal](https://airtable.com/shrAutdW9J9ghVubw) and click the large "copy base" button.  
 
 > NOTE: Some of these hymnals are so large, you may find yourself starting outside of Airtable's free tier (1200 records.). Eventually I'm going to redo these so that first lines are on another row than Song Titles to shrink the numbers down a little.
 
