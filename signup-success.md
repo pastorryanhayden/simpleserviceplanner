@@ -30,7 +30,7 @@ Click on the hymnal you use below and then click on the large "copy base button"
     <li><a href="https://airtable.com/shrDzO914TTkeiOeN" target="blank">Celebration Hymnal</a></li>
     <li><a href="https://airtable.com/shrdzRpmKCQQApywe" target="blank">Songs and Hymns of Revival</a></li>
     <li><a href="https://airtable.com/shrVQbcJ3yp2ce8Ql" target="blank">Bible Truth Hymns</a></li>
-    li><a href="https://airtable.com/shrJTut5t0nWhOKEs" target="blank">Living Hymns</a></li>
+    <li><a href="https://airtable.com/shrJTut5t0nWhOKEs" target="blank">Living Hymns</a></li>
 </ul>
 
 OR click on on:
