@@ -33,8 +33,6 @@ Click on the hymnal you use below and then click on the large "copy base button"
     <li><a href="https://airtable.com/shrVQbcJ3yp2ce8Ql" target="blank">Bible Truth Hymns</a></li>
     <li><a href="https://airtable.com/shrJTut5t0nWhOKEs" target="blank">Living Hymns</a></li>
     <li><a href="https://airtable.com/shr7Grw1iWERNxF4M" target="blank">Christian Life Hymnal</a></li>
-    <li><a href="https://airtable.com/shr7Grw1iWERNxF4M" target="blank">Christian Life Hymnal</a></li>
-    <li><a href="https://airtable.com/shrEBseGpghgfkDEB" target="blank">Great Hymns of the Faith</a></li>
     <li><a href="https://airtable.com/shrEBseGpghgfkDEB" target="blank">Great Hymns of the Faith</a></li>
     <li><a href="https://airtable.com/shrSw67Ep5xxcNhGw" target="blank">Praise and Worship Hymnal</a></li>
     <li><a href="https://airtable.com/shrouaYxBYK78B20y" target="blank">Baptist Hymnal 1991</a></li>
