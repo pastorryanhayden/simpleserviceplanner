@@ -29,8 +29,17 @@ Click on the hymnal you use below and then click on the large "copy base button"
     <li><a href="https://airtable.com/shrrWNpYJQE2DnX2e" target="blank">The Hymnal for Worship &amp; Celebration</a></li>
     <li><a href="https://airtable.com/shrDzO914TTkeiOeN" target="blank">Celebration Hymnal</a></li>
     <li><a href="https://airtable.com/shrdzRpmKCQQApywe" target="blank">Songs and Hymns of Revival</a></li>
+    <li><a href="https://airtable.com/shr9QYfBHZQLQz99D" target="blank">Songs and Hymns of the Heart</a></li>
     <li><a href="https://airtable.com/shrVQbcJ3yp2ce8Ql" target="blank">Bible Truth Hymns</a></li>
     <li><a href="https://airtable.com/shrJTut5t0nWhOKEs" target="blank">Living Hymns</a></li>
+    <li><a href="https://airtable.com/shr7Grw1iWERNxF4M" target="blank">Christian Life Hymnal</a></li>
+    <li><a href="https://airtable.com/shr7Grw1iWERNxF4M" target="blank">Christian Life Hymnal</a></li>
+    <li><a href="https://airtable.com/shrEBseGpghgfkDEB" target="blank">Great Hymns of the Faith</a></li>
+    <li><a href="https://airtable.com/shrEBseGpghgfkDEB" target="blank">Great Hymns of the Faith</a></li>
+    <li><a href="https://airtable.com/shrSw67Ep5xxcNhGw" target="blank">Praise and Worship Hymnal</a></li>
+    <li><a href="https://airtable.com/shrouaYxBYK78B20y" target="blank">Baptist Hymnal 1991</a></li>
+    <li><a href="https://airtable.com/shrmFvJ6WtqDzUyNV" target="blank">Baptist Hymnal 2008</a></li>
+
 </ul>
 
 OR click on on:
